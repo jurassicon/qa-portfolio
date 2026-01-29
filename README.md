@@ -29,9 +29,9 @@ Issues:
 
 ## Artifacts
 
-- Bug reports list: `artifacts/bug_reports.md`
-- Checklists: `artifacts/checklists.md`
-- Bug report template: `templates/bug_report_template.md`
+- Bug reports list: [`artifacts/bug_reports.md`](https://github.com/jurassicon/qa-portfolio/blob/main/artifacts/bug_reports.md)
+- Checklists: [`artifacts/checklists.md`](https://github.com/jurassicon/qa-portfolio/blob/main/artifacts/checklists.md)
+- Bug report template: [`templates/bug_report_template.md`](https://github.com/jurassicon/qa-portfolio/blob/main/templates/bug_report_template.md)
 
 ## Skills demonstrated
 
