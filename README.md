@@ -19,6 +19,7 @@ Issues:
 
 Repo: https://github.com/jurassicon/Battle_Arena_OOP  
 Case: [`projects/battle_arena.md`](https://github.com/jurassicon/qa-portfolio/blob/main/projects/battle_arena.md) 
+
 Issues:
 
 - #1 [Misleading HP value in battle log due to
