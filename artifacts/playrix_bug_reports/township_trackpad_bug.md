@@ -55,7 +55,7 @@ matters because it can **waste Moves** (limited turns).
 ### 🔴 Impact
 
 - **Severity:** Major
-- **Priority:** High
+- **Priority:** Medium
 
 ---
 
