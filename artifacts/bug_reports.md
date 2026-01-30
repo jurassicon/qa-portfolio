@@ -19,3 +19,7 @@ Below is a list of reported issues (GitHub Issues) with video/log attachments.
 - #2 Tournament flow prints “В списке недостаточно элементов - 1” at the end of the final fight  
   https://github.com/jurassicon/Battle_Arena_OOP/issues/2  
   *Impact:* tournament flow edge case / confusing output (Minor, Medium)
+
+## Commercial / Playrix-like example
+- Township (macOS) — Two-finger trackpad move triggers unwanted tile actions (Major, High)  
+  artifacts/playrix_bug_reports/township_trackpad_bug.md
