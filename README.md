@@ -27,6 +27,11 @@ Issues:
 - #2 [Tournament flow prints “В списке недостаточно элементов - 1” at the end of
   the final fight](https://github.com/jurassicon/Battle_Arena_OOP/issues/2)
 
+## 3) ## Commercial game testing
+- Township (macOS): Trackpad two-finger move triggers unwanted tile actions (Major/High)  
+  artifacts/playrix_like_bug_reports/township_trackpad_bug.md
+
+
 ## Artifacts
 
 - Bug reports list: [`artifacts/bug_reports.md`](https://github.com/jurassicon/qa-portfolio/blob/main/artifacts/bug_reports.md)
