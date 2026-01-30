@@ -75,4 +75,4 @@ movement triggers actions without click).
 
 ### Attachments
 
-- Video with visible click indicator (circle): [add link here]
+- [Video with visible click indicator (circle)](https://drive.google.com/file/d/1cLJ5B4wVXIlpXBhykcRPwVWGCEyNJbmA/view?usp=sharing)
