@@ -69,7 +69,6 @@ drag/scroll) without requiring a click/tap. There may also be an issue with *
 
 - [ ] Ignore two-finger movement for board actions unless there is a click/tap.
 - [ ] Allow tile actions only when input starts on the tile under the cursor.
-- [ ] Separate scroll/multi-touch gestures from tile drag/swaps.
 
 ---
 
