@@ -1,4 +1,5 @@
 # QA Portfolio — Iurii Cherkasov (Junior QA Manual)
+![teenage mutant ninja turtles pixel GIF by haydiroket (Mert Keskin)](https://github.com/user-attachments/assets/d163acbf-6bd6-4c8b-839c-c7200ba3f70e)
 
 A small portfolio of manual testing artifacts (game QA): project case studies, bug reports, and checklists.  
 Format: GitHub-friendly (Markdown + links to Issues with video/log attachments).
