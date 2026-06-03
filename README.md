@@ -1,48 +1,74 @@
-# QA Portfolio — Iurii Cherkasov (Junior QA Manual)
-![teenage mutant ninja turtles pixel GIF by haydiroket (Mert Keskin)](https://github.com/user-attachments/assets/d163acbf-6bd6-4c8b-839c-c7200ba3f70e)
+# QA Portfolio — Iurii Cherkasov
 
-A portfolio of manual testing artifacts (game QA): project case studies, bug reports, and checklists.  
-Format: GitHub-friendly (Markdown + links to Issues with video/log attachments).
+Manual QA portfolio focused on game testing: gameplay mechanics, input handling,
+edge cases, state transitions, and clear reproducible bug reports.
 
-## Projects
+---
 
-### 1) The Snake (Python/Pygame) — project work
+## Featured: Commercial Game Testing
 
-Repo: https://github.com/jurassicon/the_snake  
-Case: [`projects/the_snake.md`](https://github.com/jurassicon/qa-portfolio/blob/main/projects/the_snake.md)  
-Issues:
+### Township / macOS
 
-- [#18 False Game Over after chaotic arrow input (Snake length 3)](https://github.com/jurassicon/the_snake/issues/18)
-- [#19 Apple sometimes spawns directly in front of the snake’s head after
-  respawn](https://github.com/jurassicon/the_snake/issues/19)
+Real bug reports filed against Township (Playrix, App Store) on macOS.
 
-### 2) Battle Arena (console, Python) — pet project
+**1. [macOS] Match-3 board: two-finger trackpad move triggers unwanted tile actions**
 
-Repo: https://github.com/jurassicon/Battle_Arena_OOP  
-Case: [`projects/battle_arena.md`](https://github.com/jurassicon/qa-portfolio/blob/main/projects/battle_arena.md) 
+- Report: [artifacts/playrix_bug_reports/township_trackpad_bug.md](artifacts/playrix_bug_reports/township_trackpad_bug.md)
+- Severity: **Major** | Priority: **Medium**
+- Evidence: video + screenshots ([Google Drive folder](https://drive.google.com/drive/folders/1lftEX8dvyhtiedwHCbNfNVEJBhI5lSJK?usp=sharing))
+- Input bug can waste limited Moves during gameplay.
 
-Issues:
+**2. [macOS] Players list: two-finger trackpad scroll triggers unintended click near cursor**
 
-- #1 [Misleading HP value in battle log due to
-  rounding](https://github.com/jurassicon/Battle_Arena_OOP/issues/1)
-- #2 [Tournament flow prints “В списке недостаточно элементов - 1” at the end of
-  the final fight](https://github.com/jurassicon/Battle_Arena_OOP/issues/2)
+- Report: [artifacts/playrix_bug_reports/township_players_list_trackpad_bug.md](artifacts/playrix_bug_reports/township_players_list_trackpad_bug.md)
+- Severity: **Minor** | Priority: **Medium**
+- Evidence: video with click indicator ([Google Drive](https://drive.google.com/file/d/1cLJ5B4wVXIlpXBhykcRPwVWGCEyNJbmA/view?usp=sharing))
+- UI input bug can open wrong player profiles or select wrong items.
 
-## 3) ## Commercial game testing
-- Township (macOS): Trackpad two-finger move triggers unwanted tile actions (Major/High)  
-  artifacts/playrix_like_bug_reports/township_trackpad_bug.md
+---
 
+## Additional Game QA Practice
+
+### The Snake — Python/Pygame
+
+Self-built training project from Yandex Practicum, tested manually as a game QA case.
+Focus: gameplay logic, state transitions, input stress, edge cases.
+
+- Case: [projects/the_snake.md](projects/the_snake.md)
+- Repo: https://github.com/jurassicon/the_snake
+- Issues:
+  - [#18 False Game Over after chaotic arrow input (Snake length 3)](https://github.com/jurassicon/the_snake/issues/18)
+  - [#19 Apple sometimes spawns directly in front of the snake's head after respawn](https://github.com/jurassicon/the_snake/issues/19)
+
+### Battle Arena — Python console game
+
+Self-built training project from Yandex Practicum student hackathon practice, tested manually as a QA case.
+Focus: combat logic, randomness, tournament flow, logs, edge cases.
+
+- Case: [projects/battle_arena.md](projects/battle_arena.md)
+- Repo: https://github.com/jurassicon/Battle_Arena_OOP
+- Issues:
+  - [#1 Misleading HP value in battle log due to rounding](https://github.com/jurassicon/Battle_Arena_OOP/issues/1)
+  - [#2 Tournament flow prints "В списке недостаточно элементов - 1" at the end of the final fight](https://github.com/jurassicon/Battle_Arena_OOP/issues/2)
+
+---
 
 ## Artifacts
 
-- Bug reports list: [`artifacts/bug_reports.md`](https://github.com/jurassicon/qa-portfolio/blob/main/artifacts/bug_reports.md)
-- Checklists: [`artifacts/checklists.md`](https://github.com/jurassicon/qa-portfolio/blob/main/artifacts/checklists.md)
-- Bug report template: [`templates/bug_report_template.md`](https://github.com/jurassicon/qa-portfolio/blob/main/templates/bug_report_template.md)
+- [Bug reports index](artifacts/bug_reports.md)
+- [Checklists](artifacts/checklists.md)
+- [Bug report template](templates/bug_report_template.md)
 
-## Skills demonstrated
+---
 
-- Functional / Smoke / Regression / Exploratory testing
-- Test design: edge cases, state transitions, input stress
-- Bug reporting: steps, expected/actual, severity/priority, attachments (
-  video/logs)
-- GitHub Issues workflow
+## Skills Demonstrated
+
+- Manual testing
+- Functional testing
+- Smoke testing
+- Regression thinking
+- Exploratory testing
+- Gameplay logic testing
+- Input stress testing
+- Edge-case analysis
+- Bug reporting with steps, expected/actual result, severity/priority, and evidence
