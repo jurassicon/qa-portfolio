@@ -72,4 +72,4 @@ movement triggers actions without click).
 
 ### Evidence
 
-- Video and screenshots: [Google Drive folder](https://drive.google.com/file/d/1cLJ5B4wVXIlpXBhykcRPwVWGCEyNJbmA/view?usp=sharing)
+- Video: [Google Drive folder](https://drive.google.com/file/d/1cLJ5B4wVXIlpXBhykcRPwVWGCEyNJbmA/view?usp=drive_link)
