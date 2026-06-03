@@ -4,7 +4,7 @@
   <img
     src='https://github.com/user-attachments/assets/d163acbf-6bd6-4c8b-839c-c7200ba3f70e'
     alt='teenage mutant ninja turtles'
-    width='640'
+    width='480'
   >
 </p>
 
