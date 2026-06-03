@@ -1,4 +1,4 @@
-# Battle Arena (console, Python) — Case study
+# Battle Arena (console, Python game) — Case study
 
 **Repo:** https://github.com/jurassicon/Battle_Arena_OOP
 
