@@ -1,4 +1,4 @@
-# Bug report template (GitHub Issues / Jira style)
+# Bug report template (GitHub Issues)
 
 ## Title
 [Platform] Short summary (what + where + when)
