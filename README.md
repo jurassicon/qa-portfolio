@@ -73,10 +73,12 @@ Focus: combat logic, randomness, tournament flow, logs, edge cases.
 
 - Manual testing
 - Functional testing
-- Smoke testing
-- Regression thinking
+- Smoke checks
 - Exploratory testing
 - Gameplay logic testing
+- Input and gesture testing
 - Input stress testing
 - Edge-case analysis
-- Bug reporting with steps, expected/actual result, severity/priority, and evidence
+- Console/log analysis
+- Bug reporting with environment, steps to reproduce, expected/actual result,
+  severity/priority, hypothesis, and evidence
