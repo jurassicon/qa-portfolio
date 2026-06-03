@@ -17,7 +17,8 @@ edge cases, state transitions, and clear reproducible bug reports.
 
 ### Township / macOS
 
-Real bug reports filed against Township (Playrix, App Store) on macOS.
+Real bug reports documented while testing Township (Playrix, App Store version)
+on macOS.
 
 **1. [macOS] Match-3 board: two-finger trackpad move triggers unwanted tile actions**
 
@@ -39,7 +40,8 @@ Real bug reports filed against Township (Playrix, App Store) on macOS.
 
 ### The Snake — Python/Pygame
 
-Self-built training project from Yandex Practicum, tested manually as a game QA case.
+Self-built training project created during a Yandex Practicum student hackathon,
+then tested manually as a QA case.
 Focus: gameplay logic, state transitions, input stress, edge cases.
 
 - Case: [projects/the_snake.md](projects/the_snake.md)
