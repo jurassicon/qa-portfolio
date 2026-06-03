@@ -1,7 +1,4 @@
-## Title
-
-[macOS] Two-finger trackpad scroll triggers unintended click near cursor on
-Players list screen
+# [macOS] Two-finger trackpad scroll triggers unintended click near cursor on Players list screen
 
 ### Description
 
@@ -34,7 +31,7 @@ mistake.
 4. Use **two fingers** on the trackpad to scroll (no click/tap).
 5. Watch the left side near the list and the cursor area.
 
-**Repro Rate:** 100%(always)
+**Repro Rate:** 100% (always)
 
 ---
 
@@ -50,7 +47,7 @@ mistake.
 
 ---
 
-### 🟡 Impact
+### Impact
 
 - **Severity:** Minor
 - **Priority:** Medium
@@ -59,9 +56,9 @@ mistake.
 
 ### Notes & Hypothesis
 
-This looks like wrong handling of **two-finger trackpad events** on macOS (
-scroll/gesture treated as click/drag) and/or **input coordinate offset** (
-action happens left of cursor).
+This looks like wrong handling of **two-finger trackpad events** on macOS
+(scroll/gesture treated as click/drag) and/or **input coordinate offset**
+(action happens left of cursor).
 **Possible related issue:** similar trackpad bug on Match-3 board (two-finger
 movement triggers actions without click).
 
@@ -73,6 +70,6 @@ movement triggers actions without click).
 
 ---
 
-### Attachments
+### Evidence
 
-- [Video with visible click indicator (circle)](https://drive.google.com/file/d/1cLJ5B4wVXIlpXBhykcRPwVWGCEyNJbmA/view?usp=sharing)
+- Video and screenshots: [Google Drive folder](https://drive.google.com/file/d/1cLJ5B4wVXIlpXBhykcRPwVWGCEyNJbmA/view?usp=sharing)
