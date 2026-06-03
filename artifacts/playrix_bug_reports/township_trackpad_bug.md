@@ -1,14 +1,11 @@
-## Title
-
-[macOS] Two-finger trackpad move triggers unwanted actions on Match-3 board
-without click
+# [macOS] Two-finger trackpad move triggers unwanted actions on Match-3 board without click
 
 ### Description
 
 On the Match-3 level screen, the game sometimes treats a **two-finger
 touch/move on the trackpad** as a board action (select/move/swap tiles)
-**even without any click/tap**. It can also affect tiles **not under the cursor
-** (e.g., cursor is in the bottom-right, but tiles on the left move). This
+**even without any click/tap**. It can also affect tiles **not under the cursor**
+(e.g., cursor is in the bottom-right, but tiles on the left move). This
 matters because it can **waste Moves** (limited turns).
 
 ---
@@ -52,7 +49,7 @@ matters because it can **waste Moves** (limited turns).
 
 ---
 
-### 🔴 Impact
+### Impact
 
 - **Severity:** Major
 - **Priority:** Medium
@@ -61,9 +58,9 @@ matters because it can **waste Moves** (limited turns).
 
 ### Notes & Hypothesis
 
-The game likely interprets **two-finger trackpad events** as board input (
-drag/scroll) without requiring a click/tap. There may also be an issue with *
-*input coordinates** (board action not aligned with cursor position).
+The game likely interprets **two-finger trackpad events** as board input
+(drag/scroll) without requiring a click/tap. There may also be an issue with
+**input coordinates** (board action not aligned with cursor position).
 
 **Suggested Fixes (optional):**
 
@@ -72,7 +69,6 @@ drag/scroll) without requiring a click/tap. There may also be an issue with *
 
 ---
 
-### Attachments
+### Evidence
 
-- Video + screenshots
-  folder: https://drive.google.com/drive/folders/1lftEX8dvyhtiedwHCbNfNVEJBhI5lSJK?usp=sharing
+- Video and screenshots: [Google Drive folder](https://drive.google.com/drive/folders/1lftEX8dvyhtiedwHCbNfNVEJBhI5lSJK?usp=sharing)
