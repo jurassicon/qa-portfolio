@@ -71,4 +71,5 @@ The game likely interprets **two-finger trackpad events** as board input
 
 ### Evidence
 
-- Video and screenshots: [Google Drive folder](https://drive.google.com/drive/folders/1lftEX8dvyhtiedwHCbNfNVEJBhI5lSJK?usp=sharing)
+- Video #1: [Google Drive folder](https://drive.google.com/file/d/1-owc_tU_KAcH4yY3TwPIY4RzHjLO9X0P/view?usp=sharing)
+- Video #2: [Google Drive folder](https://drive.google.com/file/d/1CLBlsjnhE5zrKZbcpNq7zQF2f2j_iWNW/view?usp=sharing)
