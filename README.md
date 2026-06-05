@@ -8,8 +8,7 @@
   >
 </p>
 
-Manual QA portfolio focused on game testing: gameplay mechanics, input handling,
-edge cases, state transitions, and clear reproducible bug reports.
+Manual QA portfolio focused on game testing and development workflows. Demonstrates comprehensive bug reporting, gameplay mechanics analysis, and practical experience managing lifecycle tasks within Agile frameworks (Jira, Bitrix24).
 
 ---
 
@@ -71,16 +70,16 @@ Focus: combat logic, randomness, tournament flow, logs, edge cases.
 
 ---
 
-## Skills Demonstrated
+## Skills & Tools Demonstrated
 
-- Manual testing
-- Functional testing
-- Smoke checks
-- Exploratory testing
-- Gameplay logic testing
-- Input and gesture testing
-- Input stress testing
-- Edge-case analysis
-- Console/log analysis
-- Bug reporting with environment, steps to reproduce, expected/actual result,
-  severity/priority, hypothesis, and evidence
+### Game QA & Core Testing
+- **Testing Types:** Manual, Functional, Smoke, and Exploratory testing.
+- **Game Analysis:** Gameplay logic verification, state transitions, and edge-case analysis.
+- **Input Stress Testing:** Mobile & desktop gesture handling (including trackpad behavior and multi-touch vulnerabilities).
+- **Documentation:** Creating clear, structured bug reports (Environment, Preconditions, Steps, Actual/Expected results, and Product Impact analysis).
+
+### Project Tracking & SDLC Workflow (PM Path)
+- **Task & Workflow Management:** Hands-on experience utilizing **Jira** and **Bitrix24** Kanban boards to manage development cycles and track business processes.
+- **Task Decomposition:** Proven ability to break down high-level project goals (e.g., chatbot development, CRM digitalization) into actionable technical tasks with clear timelines.
+- **Cross-Functional Collaboration:** Experience in assigning tasks, managing dependencies, setting deadlines, and coordinating team communication within project trackers.
+- **Technical Toolkit:** GitHub Issues/Projects, Jira, Bitrix24, Postman (basic), Python & pytest (basic for routine automation).
