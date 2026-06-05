@@ -54,6 +54,12 @@ mistake.
 
 ---
 
+### Product Impact
+* **Player Retention Risk:** Township depends on co-ops and social play to keep players in the game long-term. If checking the friend list is annoying, players will interact less with each other and might stop playing the game sooner.
+* **Impact on Seasonal Events:** During big co-op events like Regattas, players use these lists all the time to manage their teams. A bad trackpad experience makes it hard to play together, so players can become less active during competitions.
+
+---
+
 ### Notes & Hypothesis
 
 This looks like wrong handling of **two-finger trackpad events** on macOS
