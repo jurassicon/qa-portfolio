@@ -62,7 +62,7 @@ matters because it can **waste Moves** (limited turns).
 * **App Store Ratings:** Desktop players are sensitive to input optimization. Unresolved trackpad bugs can trigger negative reviews on the Mac App Store, harming organic User Acquisition (UA).
 
 ### Proposed Solution / Game Design Suggestion
-Implement strict input validation for touchpads on macOS: tile actions should only be triggered by an explicit click event (`click` / `tap`), completely ignoring swipe/scroll gestures (`pan` / `two-finger scroll`) unless they are explicitly designed for map navigation.
+Implement strict input validation for touchpads on macOS: tile actions should only be triggered by an explicit click event (`click` / `tap`), completely ignoring swipe/scroll gestures (`two-finger scroll` or `swipe`) unless they are explicitly designed for map navigation.
 
 ---
 
