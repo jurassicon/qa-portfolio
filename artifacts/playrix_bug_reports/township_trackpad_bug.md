@@ -56,6 +56,16 @@ matters because it can **waste Moves** (limited turns).
 
 ---
 
+### Product & Business Impact
+* **Player Retention & UX Frustration:** In Match-3 games, level difficulty is tightly balanced. When a gesture bug causes accidental tile movement and wastes a move, players lose the level due to technical flaws rather than game design. This causes high frustration, leading to potential rage-quitting and lowering short-term retention (Day 1 / Day 3) for the macOS user segment.
+* **Monetization & Trust Integrity:** The core monetization strategy relies on players purchasing extra moves using premium currency (T-cash). When moves are consumed unfairly by an input issue, it damages player trust in the game's economy, making them less likely to convert into paying users and negatively affecting long-term LTV (Lifetime Value).
+* **App Store Ratings:** Desktop players are sensitive to input optimization. Unresolved trackpad bugs can trigger negative reviews on the Mac App Store, harming organic User Acquisition (UA).
+
+### Proposed Solution / Game Design Suggestion
+Implement strict input validation for touchpads on macOS: tile actions should only be triggered by an explicit click event (`click` / `tap`), completely ignoring swipe/scroll gestures (`pan` / `two-finger scroll`) unless they are explicitly designed for map navigation.
+
+---
+
 ### Notes & Hypothesis
 
 The game likely interprets **two-finger trackpad events** as board input
