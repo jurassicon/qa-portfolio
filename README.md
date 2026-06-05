@@ -3,12 +3,12 @@
 <p align='center'>
   <img
     src='https://github.com/user-attachments/assets/d163acbf-6bd6-4c8b-839c-c7200ba3f70e'
-    alt='teenage mutant ninja turtles'
+    alt='retro_game_pixel_art'
     width='480'
   >
 </p>
 
-Manual QA portfolio focused on game testing and development workflows. Demonstrates comprehensive bug reporting, gameplay mechanics analysis, and practical experience managing lifecycle tasks within Agile frameworks (Jira, Bitrix24).
+Manual QA portfolio focused on game testing and development workflows. Demonstrates comprehensive bug reporting, gameplay mechanics analysis, and practical experience managing lifecycle tasks within Agile frameworks (Jira, amoCRM, Bitrix24).
 
 ---
 
